@@ -21,4 +21,6 @@ android {
 dependencies {
     compile "com.android.support:support-v4:21.0.2"
     compile "au.com.bytecode:opencsv:2.4"
+    compile "com.j256.ormlite:ormlite-android:4.46"
+    compile "com.j256.ormlite:ormlite-core:4.46"
 }
